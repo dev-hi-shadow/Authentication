@@ -1,0 +1,1 @@
+exports.isAdminPath = /\/admin\/?[^\/]*$/;
